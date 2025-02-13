@@ -20,3 +20,5 @@ Este projeto consiste em um sorteador de amigo secreto simples, rápida e práti
 
 Criar este sorteador de amigo secreto foi um projeto desafiador e gratificante. O maior desafio era implementar a lógica do sorteio de forma eficiente .
 Ao longo do desenvolvimento, aprendi muito sobre manipulação de arrays em JavaScript e tive a oportunidade de aprimorar minhas habilidades de programação.Foi uma experiência muito enriquecedora e me motivou a continuar explorando o mundo da programação.
+
+![Alura - One Oracle Next](alura-one/foto.webp)
